@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180878206789",
+    "project_id": "eshop-c4508",
+    "storage_bucket": "eshop-c4508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180878206789:android:9934494edd9a8aedb2402c",
+        "android_client_info": {
+          "package_name": "com.sude.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180878206789-1crfke9qen0jmsq3ah20vdfj195qb3g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOiG8Z9jYuipiLmNINj1uhXXNiRHnoO_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180878206789-1crfke9qen0jmsq3ah20vdfj195qb3g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
